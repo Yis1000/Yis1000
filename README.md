@@ -1,5 +1,5 @@
 # About me
-# 💻 **¡Hola! Soy [Yisus]** 👋
+# 💻 **¡Hola! Soy Yisus** 👋
 
 ### 📱 **Desarrollador de Aplicaciones Multiplataforma en formación**
 

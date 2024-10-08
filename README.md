@@ -1,7 +1,7 @@
 # About me
 # 💻 **¡Hola! Soy Yisus** 👋
 
-### 📱 ** ESTUDIANDO Desarrollador de Aplicaciones Multiplataforma en formación**
+### 📱 **   ESTUDIANDO Desarrollador de Aplicaciones Multiplataforma en formación**
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo de aplicaciones móviles y de escritorio, actualmente estudiando **Desarrollo de Aplicaciones Multiplataforma** (DAM). Me encanta crear soluciones digitales que sean funcionales, intuitivas y accesibles para todo tipo de usuarios.
 

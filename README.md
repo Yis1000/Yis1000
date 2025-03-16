@@ -10,7 +10,7 @@
 Soy una persona curiosa y comprometida con el aprendizaje continuo. Actualmente estoy mejorando mis habilidades en lenguajes de programación como:
 
 - **Java**: ESTUDIANDO aplicaciones móviles Android y soluciones backend.
-- **SQL**: Estudiando sqp ,  gestionar bases de datos robustas.
+- **SQL**: Estudiando SQL  ,  gestionar bases de datos robustas.
 - **HTML, CSS, JavaScript**: Para crear aplicaciones web interactivas.
 
 Mi objetivo es seguir creciendo en el mundo del desarrollo multiplataforma y colaborar en proyectos que aporten valor real a los usuarios.

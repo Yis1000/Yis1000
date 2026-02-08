@@ -1,37 +1,93 @@
-# About me
-# 💻 **¡Hola! Soy Yisus** 👋
+# 👋 ¡Buenas! Soy Yisus
 
-### 📱 **   ESTUDIANDO Desarrollador de Aplicaciones Multiplataforma en formación**
+💻 Estudiante de **2º DAM (Desarrollo de Aplicaciones Multiplataforma)**  
+🚀 Enfocado en construir soluciones reales con backend, frontend e IA aplicada  
+🎯 Ahora mismo trabajando en mi **TFG: OpsHub para Odoo 19**
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo de aplicaciones móviles y de escritorio, actualmente estudiando **Desarrollo de Aplicaciones Multiplataforma** (DAM). Me encanta crear soluciones digitales que sean funcionales, intuitivas y accesibles para todo tipo de usuarios.
+---
 
-## 🚀 **Sobre mí**
+## 🧠 Sobre mí
 
-Soy una persona curiosa y comprometida con el aprendizaje continuo. Actualmente estoy mejorando mis habilidades en lenguajes de programación como:
+Soy un dev en formación, pero muy de **hacer cosas prácticas**: construir, probar, romper y mejorar.  
+Me mola trabajar proyectos completos, desde la base de datos hasta la interfaz, metiendo automatizaciones y APIs externas cuando hace falta.
 
-- **Java**: ESTUDIANDO aplicaciones móviles Android y soluciones backend.
-- **SQL**: Estudiando SQL  ,  gestionar bases de datos robustas.
-- **HTML, CSS, JavaScript**: Para crear aplicaciones web interactivas.
+Me interesa especialmente:
+- Desarrollo multiplataforma
+- Backends robustos y bien estructurados
+- Dashboards y visualización de datos
+- Integraciones con IA para mejorar flujos reales
 
-Mi objetivo es seguir creciendo en el mundo del desarrollo multiplataforma y colaborar en proyectos que aporten valor real a los usuarios.
+---
 
-## 🔧 **Tecnologías y Herramientas**
+## 🛠️ Stack y tecnologías que manejo
 
-Aquí algunas de las tecnologías y herramientas con las que he estado trabajando:
+### Lenguajes
+- **Python**
+- **Java**
+- **JavaScript (ES6+)**
+- **SQL**
+- **HTML5 / CSS3 / SCSS**
+- **XML**
 
+### Frameworks / Ecosistema
+- **Odoo 19** (módulos custom, ORM, vistas, seguridad, cron jobs)
+- **OWL** (frontend para Odoo)
+- **PostgreSQL**
+
+### IA e integraciones
+- **Google Gemini**
+- **OpenRouter**
+- **Function Calling**
+- **Twilio (SMS)**  
+- Consumo de **APIs REST** externas con validación, logs y control de errores
+
+### Herramientas
+- **Git & GitHub**
 - **Visual Studio Code**
-- **IntelliJ IDEA** 
+- **IntelliJ IDEA**
+- **Postman**
+- **Figma** (diagramas de arquitectura, ERD, secuencia, casos de uso)
 
+---
 
-## 🌱 **En constante aprendizaje**
+## 📌 Proyecto destacado
 
-Siempre estoy buscando mejorar mis conocimientos y aprender nuevas tecnologías.
+## 🔥 OpsHub — Módulo inteligente para Odoo 19 (TFG)
 
+Proyecto orientado a operaciones empresariales con:
+- Dashboards tipo Kanban en OWL
+- Asistente IA para ejecutar acciones desde lenguaje natural
+- Alertas proactivas por KPI (Odoo + SMS)
+- Importación de datos desde APIs externas
+- Optimización con caché e índices de base de datos
 
-## 📫 **Contacto**
+📍 Arquitectura/diagramas:  
+**https://listen-save-33889741.figma.site/**
 
-¿Te gustaría ponerte en contacto conmigo para hablar de tecnología, proyectos o colaboraciones? ¡Estaré encantado de escucharte!
+---
 
-- **Discord**: [https://discord.com/users/498057857409744897](https://discord.com/users/498057857409744897)
+## 📈 En qué estoy mejorando ahora
 
-¡Gracias por visitar mi perfil y espero que disfrutes explorando mis proyectos!
+- Arquitectura limpia en proyectos grandes
+- Optimización de consultas y rendimiento en PostgreSQL
+- Integración de IA en flujos de negocio reales
+- Testing y calidad de código para entornos productivos
+
+---
+
+## 🤝 Objetivo
+
+Seguir creciendo como desarrollador multiplataforma y participar en proyectos que tengan impacto real, mezclando **producto + datos + automatización + IA**.
+
+---
+
+## 📫 Contacto
+
+Si quieres hablar de proyectos, código o colaborar:
+
+- **Discord**: [Yisus](https://discord.com/users/498057857409744897)
+
+---
+
+⭐ Gracias por pasarte por mi perfil.
+Si te mola lo que hago, échale un ojo a mis repos y proyectos.

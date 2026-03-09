@@ -1,6 +1,6 @@
 # 👋 ¡Buenas! Soy Yisus
 
-💻 **Desarrollador Multiplataforma (DAM)**
+💻 Desarrollador Multiplataforma (DAM)
 🖥️ **Técnico en Sistemas Microinformáticos y Redes (SMR)**  
 ⚙️ Perfil técnico orientado a software + sistemas + automatización  
 🚀 Stack principal: **Odoo + n8n + Python + PostgreSQL**
